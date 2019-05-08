@@ -1,4 +1,4 @@
-# Micropython-linux
+# Micropython-x86
 This repo special for MIcropithon builds
 Downloads
 https://github.com/phdGuru/micropython-x86/releases
